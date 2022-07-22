@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=pink&height=300&section=header&text=HyunBee Cho&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=4479A1&height=300&section=header&text=HyunBee Cho&fontSize=90)
 
 <h2>🙋🏻‍♀️ About Me</h2>
 <ul>
@@ -56,4 +56,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHYUNBEE&layout=compact&theme=default&langs_count=6)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=4479A1&height=200&section=footer)
