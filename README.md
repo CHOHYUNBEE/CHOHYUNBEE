@@ -1,4 +1,6 @@
-<h1>🙋🏻‍♀️ Hyunbee Cho</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=200&section=header&text=Hyunbee Cho&fontSize=70" />
+</p>
 
 <h2>👔 Work Experience</h2>
 <h4>[2019.08 ~ 2020.03] : Drimsys 인턴</h4>
@@ -32,5 +34,8 @@
 </div>
 
 <h2>📃 Certificate</h2>
-<h4>[2019.11.22]정보처리기사</h4>
-<h4>[2022.04.08]SQLD</h4>
+<h4>[2019.11.22] 정보처리기사</h4>
+<h4>[2022.04.08] SQLD</h4>
+
+<h2>⚡ Language ⚡</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHYUNBEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
