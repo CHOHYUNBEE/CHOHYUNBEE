@@ -1,13 +1,11 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=3DDC84&height=300&section=header&text=Hyunbee Cho&fontSize=70" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
-<h2>🙋🏻‍♀️ About Me</h2>
+<h2>🙋🏻‍♀️ About Me 🙋🏻‍♀️</h2>
 <ul>
-<li>Front-End Developer</li>
+<li><h4>Front-End Developer</h4></li>
 </ul>
 
-<h2>💪 Skils</h2>
+<h2>💪 Skils 💪</h2>
 <h3>Platforms & Language</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -29,28 +27,27 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
-<h2>📃 Certificate</h2>
+<h2>📃 Certificate 📃</h2>
 <ul>
-<li><h3>[2019.11.22] 정보처리기사</h3></li>
-<li><h3>[2022.04.08] SQLD</h3></li>
+<li><h4>[2019.11.22] 정보처리기사</h4></li>
+<li><h4>[2022.04.08] SQLD</h4></li>
 </ul>
 
-<h2>👔 Work Experience</h2>
+<h2>👔 Work Experience 👔</h2>
 <ul>
 <li><h4>[2019.08 ~ 2020.03] : Drimsys 인턴</h4></li>
 <li><h4>[2020.03 ~ 2021.03] : Drimsys 사원 
 <br/>(SKHynix TTTM 시스템 개발 및 운영을 위해 Hynix 본사로 출장 근무)</h4></li>
 </ul>
 
-<h2>💻 Project</h2>
+<h2>💻 Project 💻</h2>
 <ul>
 <li><h4>[2019.11 ~ 2021.03] Drimsys 시리얼 통신 UI 디자인 업무 및 동작 기능을 개발</h4></li>
 <li><h4>[2020.04 ~ 2021.03] : SKHynix TTTM 시스템의 화면 및 기능 개발 및 유지보수 업무</h4></li>
 </ul>
 
-<h2>⚡ Language ⚡</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHYUNBEE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<h2>⚡ My GitHub Status ⚡</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOHYUNBEE)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
