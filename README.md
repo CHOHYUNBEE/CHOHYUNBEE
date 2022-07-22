@@ -51,10 +51,9 @@
 <br/>
 
 <h2>⚡ My GitHub Status</h2>
-<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOHYUNBEE)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHYUNBEE&layout=compact&theme=default&langs_count=6)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
-</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=footer)
