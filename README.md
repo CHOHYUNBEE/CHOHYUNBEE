@@ -1,11 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=pink&height=300&section=header&text=HyunBee Cho&fontSize=90" />
 
-<h2>🙋🏻‍♀️ About Me 🙋🏻‍♀️</h2>
+<h2>🙋🏻‍♀️ About Me</h2>
 <ul>
 <li><h4>Front-End Developer</h4></li>
 </ul>
+<br/>
 
-<h2>💪 Skils 💪</h2>
+<h2>💪 Skils</h2>
 <h3>Platforms & Language</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
@@ -17,7 +18,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
-
 <div>
 <h3>Tools</h3>
 <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -26,28 +26,35 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
+<br/>
 
-<h2>📃 Certificate 📃</h2>
+<h2>📃 Certificate</h2>
 <ul>
 <li><h4>[2019.11.22] 정보처리기사</h4></li>
 <li><h4>[2022.04.08] SQLD</h4></li>
 </ul>
+<br/>
 
-<h2>👔 Work Experience 👔</h2>
+<h2>👔 Work Experience</h2>
 <ul>
 <li><h4>[2019.08 ~ 2020.03] : Drimsys 인턴</h4></li>
 <li><h4>[2020.03 ~ 2021.03] : Drimsys 사원 
 <br/>(SKHynix TTTM 시스템 개발 및 운영을 위해 Hynix 본사로 출장 근무)</h4></li>
 </ul>
+<br/>
 
-<h2>💻 Project 💻</h2>
+<h2>💻 Project</h2>
 <ul>
 <li><h4>[2019.11 ~ 2021.03] Drimsys 시리얼 통신 UI 디자인 업무 및 동작 기능을 개발</h4></li>
 <li><h4>[2020.04 ~ 2021.03] : SKHynix TTTM 시스템의 화면 및 기능 개발 및 유지보수 업무</h4></li>
 </ul>
+<br/>
 
-<h2>⚡ My GitHub Status ⚡</h2>
-
+<h2>⚡ My GitHub Status</h2>
+<div>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOHYUNBEE)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHYUNBEE&layout=compact&theme=default&langs_count=6)](https://github.com/CHOHYUNBEE/github-readme-stats)
+
+</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=pink&height=200&section=footer)
