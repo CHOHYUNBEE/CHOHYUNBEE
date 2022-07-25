@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HyunBee%20Cho&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=HyunBee%20Cho&fontSize=60)
 
 <div align="center">
 <h3>🙋🏻‍♀️ About Me</h3>
