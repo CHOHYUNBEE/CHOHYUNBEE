@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=250&section=header&text=HyunBee%20Cho&fontSize=60)
 
-<div align="center">
+<div>
 <h3>🙋🏻‍♀️ About Me</h3>
 <!-- <ul>
 <li><h4>Front-End Developer</h4></li>
