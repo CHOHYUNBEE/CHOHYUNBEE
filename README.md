@@ -40,6 +40,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHYUNBEE&layout=compact&theme=default&langs_count=5)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
+<br/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOHYUNBEE)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
 </div>
