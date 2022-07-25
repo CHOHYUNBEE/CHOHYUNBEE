@@ -36,7 +36,7 @@
 
 <h3>⚡ My GitHub Status</h3>
 
-<div display="flex">
+<div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHYUNBEE&layout=compact&theme=default&langs_count=5)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
@@ -74,7 +74,9 @@
 <h4>[2022.03 ~ 2022.09] : 이젠컴퓨터학원 반응형 웹퍼블리셔 전문가 Studying</h4>
 <br/>
 
-<h3>📞Contact Me<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> vvv3349@naver.com
+<h3>📞Contact Me</h3>
+<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> vvv3349@naver.com
+<br/>
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 chohyeonbi
 
