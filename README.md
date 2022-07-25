@@ -1,14 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HyunBee%20Cho&fontSize=90)
 
 <div align="center">
-<h2>🙋🏻‍♀️ About Me</h2>
+<h3>🙋🏻‍♀️ About Me</h3>
 <!-- <ul>
 <li><h4>Front-End Developer</h4></li>
 </ul> -->
 <h4>Front-End Developer</h4>
 <br/>
 
-<h2>💪 Skils</h2>
+<h3>💪 Skils</h3>
 <h3>Platforms & Language</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -31,7 +31,7 @@
 </div>
 <br/>
 
-<h2>📃 Certificate</h2>
+<h3>📃 Certificate</h3>
 <!-- <ul>
 <li><h4>[2019.11.22] 정보처리기사</h4></li>
 <li><h4>[2022.04.08] SQLD</h4></li>
@@ -40,7 +40,7 @@
 <h4>[2022.04.08] SQLD</h4>
 <br/>
 
-<h2>👔 Work Experience</h2>
+<h3>👔 Work Experience</h3>
 <!-- <ul>
 <li><h4>[2019.08 ~ 2020.03] : Drimsys 인턴</h4></li>
 <li><h4>[2020.03 ~ 2021.03] : Drimsys 사원 
@@ -51,22 +51,23 @@
 <br/>(SKHynix TTTM 시스템 개발 및 운영을 위해 Hynix 본사로 출장 근무)</h4>
 <br/>
 
-<h2>💻 Project</h2>
+<h3>💻 Project</h3>
 <!-- <ul>
 <li><h4>[2019.11 ~ 2021.03] Drimsys 시리얼 통신 UI 디자인 업무 및 동작 기능을 개발</h4></li>
 <li><h4>[2020.04 ~ 2021.03] : SKHynix TTTM 시스템의 화면 및 기능 개발 및 유지보수 업무</h4></li>
 </ul> -->
 <h4>[2019.11 ~ 2021.03] Drimsys 시리얼 통신 UI 디자인 업무 및 동작 기능을 개발</h4>
 <h4>[2020.04 ~ 2021.03] : SKHynix TTTM 시스템의 화면 및 기능 개발 및 유지보수 업무</h4>
+<h4>[2022.03 ~ 2022.09] : 이젠컴퓨터학원 반응형 웹퍼블리셔 전문가 Studying</h4>
 <br/>
 
-<h2>⚡ My GitHub Status</h2>
+<h3>⚡ My GitHub Status</h3>
 
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOHYUNBEE)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHYUNBEE&layout=compact&theme=default&langs_count=6)](https://github.com/CHOHYUNBEE/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOHYUNBEE&layout=compact&theme=default&langs_count=5)](https://github.com/CHOHYUNBEE/github-readme-stats)
 
 </div>
 </div>
